@@ -1,0 +1,198 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+        <mj-attributes>
+            <mj-all font-family="Open Sans" padding="0" align="center" color="#5E5E5E"/>
+            <mj-class name="header" color="#FFF" text-transform="uppercase"></mj-class>
+            <mj-class name="title" color="#454545" text-transform="uppercase"
+            font-size="17" padding-bottom="12"></mj-class>
+            <mj-button color="#FFF" background-color="#00C49B" align="left" 
+            font-weight="500" font-size="12" text-transform="uppercase"
+            border-radius="37" height="37" inner-padding="0px 15px"></mj-button>
+            <mj-divider border-width="1px" border-style="solid" border-color="#E9E9E9" padding="40px 0"/>
+            <mj-section padding-left="20" padding-right="20"></mj-section>
+
+        </mj-attributes>
+         
+
+    </mj-head>
+    <mj-body>
+    <mj-container width="640">
+
+
+        <mj-section padding="77px 0 108px 0" background-url="images/bg1.jpg" background-size="cover" full-width="full-width">
+            <mj-column>
+                <mj-image padding-bottom="14px" width="92" src="images/logo.png"/>
+                <mj-text mj-class="header" font-size="19" font-weight="300"  padding-bottom="74">Wolf Company</mj-text>
+                <mj-text mj-class="header" font-size="30" font-weight="700" line-height="32px">
+                Your skill can change de world.<br/>
+                Never stop creating
+                </mj-text>
+                <mj-button height="54" font-size="16" href="www.karamokocoulibaly.com"
+                font-weight="700" padding-top="70px" inner-padding="0px 15px" align="center">View Awesome Designs</mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="40px 0px">
+            <mj-column>
+                <mj-image src="images/privacy.png" padding-bottom="33" width="50"/>
+                <mj-text mj-class="title">Favorites</mj-text>
+                <mj-text padding-bottom="40px">View tutorials that are liked over and over again for all
+                        the right reasons. <br/><br/>
+                    <a href="#" style="color:#00C49B"> Get Inspired</a>
+                 </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-image src="images/goal.png" padding-bottom="33" width="50"/>
+                <mj-text mj-class="title">Favorites</mj-text>
+                <mj-text  padding-bottom="40px">View tutorials that are liked over and over again for all
+                        the right reasons. <br/><br/>
+                    <a href="#" style="color:#00C49B"> Get Inspired</a>
+                 </mj-text>
+            </mj-column>
+
+            <mj-column>
+                <mj-image src="images/schedule.png" padding-bottom="33" width="50"/>
+                <mj-text mj-class="title">Favorites</mj-text>
+                <mj-text padding-bottom="40px">View tutorials that are liked over and over again for all
+                        the right reasons. <br/><br/>
+                    <a href="#" style="color:#00C49B"> Get Inspired</a>
+                 </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-divider />
+            </mj-column>
+        </mj-section>
+        
+
+        <mj-section>
+            <mj-column>
+                <mj-image src="images/home1.jpg" padding-bottom="33"  />
+                <mj-text mj-class="title" align="left">Responsive template first section</mj-text>
+                <mj-text align="left" padding-bottom="30">
+                    Lorem Ipsum is simply dummy text of 
+                    the printing and typesetting industry.
+                     Lorem Ipsum has been the industry's 
+                     standard dummy text ever since the 1500s, 
+                     when an unknown printer took a galley of 
+                     type and scrambled it to make a 
+                     type specimen book.
+                </mj-text>
+                <mj-button>Read more</mj-button> 
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column>
+                <mj-divider />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="40px" padding-top="40px">
+            <mj-column width="45%">
+                <mj-image src="images/home2.jpg" padding-bottom="33"  />
+            </mj-column>
+            <mj-column width="10%">
+            </mj-column>
+            <mj-column width="45%"> 
+                <mj-text mj-class="title" align="left">Responsive template first section</mj-text>
+                <mj-text align="left" padding-bottom="30">
+                    Lorem Ipsum is simply dummy text of 
+                    the printing and typesetting industry.
+                     Lorem Ipsum has been the industry's 
+                     standard dummy text ever since the 1500s, 
+                     when an unknown printer took a galley of 
+                     type and scrambled it to make a 
+                     type specimen book.
+                </mj-text>
+                <mj-button>Read more</mj-button> 
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-divider />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section padding-bottom="40px" padding-top="40px">
+            <mj-column width="45%"> 
+                <mj-text mj-class="title" align="left">Responsive template first section</mj-text>
+                <mj-text align="left" padding-bottom="30">
+                    Lorem Ipsum is simply dummy text of 
+                    the printing and typesetting industry.
+                     Lorem Ipsum has been the industry's 
+                     standard dummy text ever since the 1500s, 
+                     when an unknown printer took a galley of 
+                     type and scrambled it to make a 
+                     type specimen book.
+                </mj-text>
+                <mj-button>Read more</mj-button> 
+            </mj-column>
+            <mj-column width="10%">
+            </mj-column>
+            <mj-column width="45%">
+                <mj-image src="images/home2.jpg" padding-bottom="33"  />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column>
+                <mj-divider />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section padding-bottom="80px" padding-top="40px">
+            <mj-column width="45%"> 
+                <mj-text mj-class="title" align="left">Responsive template first section</mj-text>
+                <mj-text align="left" padding-bottom="30">
+                    Lorem Ipsum is simply dummy text of 
+                    the printing and typesetting industry.
+                     Lorem Ipsum has been the industry's 
+                     standard dummy text ever since the 1500s, 
+                     when an unknown printer took a galley of 
+                     type and scrambled it to make a 
+                     type specimen book.
+                </mj-text>
+                <mj-button>Read more</mj-button> 
+            </mj-column>
+            <mj-column width="10%">
+            </mj-column>
+            <mj-column width="45%">
+            <mj-text mj-class="title" align="left">Responsive template first section</mj-text>
+                <mj-text align="left" padding-bottom="30">
+                    Lorem Ipsum is simply dummy text of 
+                    the printing and typesetting industry.
+                     Lorem Ipsum has been the industry's 
+                     standard dummy text ever since the 1500s, 
+                     when an unknown printer took a galley of 
+                     type and scrambled it to make a 
+                     type specimen book.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section background-color="#262626" full-width="full-width" padding="55px 0px 30px 0px">
+            <mj-column>
+                <mj-image padding-bottom="14px" width="92" src="images/logo.png"/>
+                <mj-text mj-class="header" font-size="19" font-weight="300"  padding-bottom="74">Wolf Company</mj-text>
+                
+                <mj-text>© Wolf Company - 2021 - Unscribe</mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml> 
